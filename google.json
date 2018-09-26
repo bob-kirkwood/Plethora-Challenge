@@ -1,0 +1,19 @@
+{ 
+	"Edges":
+	{
+			"201": 
+			{
+				"Type": "CircularArc",
+				"Vertices": [ 101 ],
+				"Center": {
+					"X": 1.0,
+					"Y": 0
+				},
+				"ClockwiseFrom": 101
+			}
+	},
+  "Vertices": 
+	{	
+    "101": {"Position": {"X": 0.0,"Y": 0.0}}
+  }
+}

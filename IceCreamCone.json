@@ -1,0 +1,31 @@
+{ 
+	"Edges":
+	{
+			"201": 
+			{
+				"Type": "LineSegment",
+				"Vertices": [ 101, 102 ]
+			},
+			"202": 
+			{
+				"Type": "CircularArc",
+				"Vertices": [ 102, 103 ],
+				"Center": {
+					"X": 2.0,
+					"Y": 2.0
+				},
+				"ClockwiseFrom": 103
+			},
+			"203": 
+			{
+				"Type": "LineSegment",
+				"Vertices": [ 103, 101 ]
+			}
+	},
+  "Vertices": 
+	{	
+    "101": {"Position": {"X": 0.0,"Y": 0.0}},
+    "102": {"Position": {"X": 2.0,"Y": 1.0}},
+    "103": {"Position": {"X": 1.0,"Y": 2.0}}
+  }
+}
